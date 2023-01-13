@@ -3,3 +3,4 @@ Lakers
 Kings
 Pelicans
 Bulls
+Celtics
